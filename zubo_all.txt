@@ -1,4 +1,4 @@
-2026/01/04 16:41更新,#genre#
+2026/01/04 19:28更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 广东电信-组播1,#genre#
 广东卫视,http://113.119.25.53:58888/udp/239.77.1.19:5146
@@ -3653,7 +3653,6 @@ CCTV17,http://heilin.fun:8686/rtp/239.49.1.7:6000
 南京娱乐,http://heilin.fun:8686/rtp/239.49.8.229:6000
 南京少儿,http://heilin.fun:8686/rtp/239.49.8.230:6000
 欢笑剧场4K,http://heilin.fun:8686/rtp/239.49.8.231:6000
-
 
 上海电信-组播1,#genre#
 
