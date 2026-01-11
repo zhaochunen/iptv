@@ -158,3 +158,4 @@ CGTN阿拉伯语,http://ipipip/udp/239.21.2.34:5002
 菏泽1,http://ipipip/udp/239.21.1.103:5002
 诸城新闻,http://ipipip/udp/239.21.1.217:5002
 长清新闻,http://ipipip/udp/239.21.1.107:5002
+
