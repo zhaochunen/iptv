@@ -1,4 +1,4 @@
-2026/01/15 13:04更新,#genre#
+2026/01/15 14:30更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 广东电信-组播1,#genre#
 广东卫视,http://113.119.26.1:58888/udp/239.77.1.19:5146
@@ -2926,16 +2926,16 @@ CCTV12高清,http://ntdd.rdswkj.cn:8888/udp/239.49.8.135:6000
 CCTV13高清,http://ntdd.rdswkj.cn:8888/udp/239.49.9.43:6000
 CCTV14高清,http://ntdd.rdswkj.cn:8888/udp/239.49.8.136:6000
 CCTV4K,http://ntdd.rdswkj.cn:8888/udp/239.49.0.82:8000$江苏电信
-CCTV164K(SDR),http://ntdd.rdswkj.cn:8888/udp/239.49.0.109:8000
-北京卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.0.253:8000
-广东卫视4K（HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.26:8000
-深圳卫视4K（HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.28:8000
-江苏卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.62:8000
-浙江卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.64:8000
-四川卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.66:8000
-湖南卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.68:8000
-东方卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.70:8000
-山东卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.72:8000
+CCTV164K?(SDR),http://ntdd.rdswkj.cn:8888/udp/239.49.0.109:8000$江苏电信
+北京卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.0.253:8000$江苏电信
+广东卫视4K（HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.26:8000$江苏电信
+深圳卫视4K（HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.28:8000$江苏电信
+江苏卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.62:8000$江苏电信
+浙江卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.64:8000$江苏电信
+四川卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.66:8000$江苏电信
+湖南卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.68:8000$江苏电信
+东方卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.70:8000$江苏电信
+山东卫视4K (HDR),http://ntdd.rdswkj.cn:8888/udp/239.49.1.72:8000$江苏电信
 好享购物高清,http://ntdd.rdswkj.cn:8888/udp/239.49.9.41:6000
 江苏教育高清,http://ntdd.rdswkj.cn:8888/udp/239.49.9.42:6000
 
@@ -3191,7 +3191,6 @@ CCTV17,http://ntdd.rdswkj.cn:8888/udp/239.49.1.7:6000
 南京娱乐,http://ntdd.rdswkj.cn:8888/udp/239.49.8.229:6000
 南京少儿,http://ntdd.rdswkj.cn:8888/udp/239.49.8.230:6000
 欢笑剧场4K,http://ntdd.rdswkj.cn:8888/udp/239.49.8.231:6000
-
 
 上海电信-组播1,#genre#
 
