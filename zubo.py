@@ -143,8 +143,6 @@ def main():
     with open("zubo_all.txt", "w", encoding="utf-8") as f:
         f.write(f"{current_time}更新,#genre#\n")
         f.write(f"浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8\n")
-        f.write(f"凤凰中文,http://k.061899.xyz/k.php?id=fhzw\n")
-        f.write(f"凤凰资讯,http://k.061899.xyz/k.php?id=fhzx\n")
         f.write(f"凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8\n")
         f.write(f"凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8\n")
         f.write(f"凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8\n")
@@ -154,6 +152,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
