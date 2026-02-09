@@ -1,4 +1,23 @@
 
+CCTV1,http://ipipip/udp/238.255.2.91:5999$贵州电信
+CCTV2,http://ipipip/udp/238.255.2.11:5999$贵州电信
+CCTV3,http://ipipip/udp/238.255.2.133:5999$贵州电信
+CCTV4,http://ipipip/udp/238.255.2.92:5999$贵州电信
+CCTV4欧洲,http://ipipip/udp/238.255.2.213:5999$贵州电信
+CCTV4美洲,http://ipipip/udp/238.255.2.214:5999$贵州电信
+CCTV5,http://ipipip/udp/238.255.2.134:5999$贵州电信
+CCTV5+,http://ipipip/udp/238.255.2.185:5999$贵州电信
+CCTV6,http://ipipip/udp/238.255.2.135:5999$贵州电信
+CCTV7,http://ipipip/udp/238.255.2.12:5999$贵州电信
+CCTV8,http://ipipip/udp/238.255.2.136:5999$贵州电信
+CCTV9,http://ipipip/udp/238.255.2.155:5999$贵州电信
+CCTV10,http://ipipip/udp/238.255.2.13:5999$贵州电信
+CCTV11,http://ipipip/udp/238.255.2.14:5999$贵州电信
+CCTV12,http://ipipip/udp/238.255.2.15:5999$贵州电信
+CCTV13,http://ipipip/udp/238.255.2.16:5999$贵州电信
+CCTV14,http://ipipip/udp/238.255.2.17:5999$贵州电信
+CCTV15,http://ipipip/udp/238.255.2.18:5999$贵州电信
+CCTV17,http://ipipip/udp/238.255.2.137:5999$贵州电信
 CCTV4K,http://ipipip/udp/238.255.2.139:5999$贵州电信
 CCTV16 4K,http://ipipip/udp/238.255.2.145:5999$贵州电信
 北京卫视4K,http://ipipip/udp/238.255.2.160:5999$贵州电信
@@ -19,25 +38,6 @@ CCTV16 4K,http://ipipip/udp/238.255.2.145:5999$贵州电信
 浙江卫视4K,http://ipipip/udp/238.255.2.121:5999$贵州电信
 江苏卫视4K,http://ipipip/udp/238.255.2.118:5999$贵州电信
 江苏卫视4K,http://ipipip/udp/238.255.2.119:5999$贵州电信
-CCTV1,http://ipipip/udp/238.255.2.91:5999$贵州电信
-CCTV2,http://ipipip/udp/238.255.2.11:5999$贵州电信
-CCTV3,http://ipipip/udp/238.255.2.133:5999$贵州电信
-CCTV4,http://ipipip/udp/238.255.2.92:5999$贵州电信
-CCTV4欧洲,http://ipipip/udp/238.255.2.213:5999$贵州电信
-CCTV4美洲,http://ipipip/udp/238.255.2.214:5999$贵州电信
-CCTV5,http://ipipip/udp/238.255.2.134:5999$贵州电信
-CCTV5+,http://ipipip/udp/238.255.2.185:5999$贵州电信
-CCTV6,http://ipipip/udp/238.255.2.135:5999$贵州电信
-CCTV7,http://ipipip/udp/238.255.2.12:5999$贵州电信
-CCTV8,http://ipipip/udp/238.255.2.136:5999$贵州电信
-CCTV9,http://ipipip/udp/238.255.2.155:5999$贵州电信
-CCTV10,http://ipipip/udp/238.255.2.13:5999$贵州电信
-CCTV11,http://ipipip/udp/238.255.2.14:5999$贵州电信
-CCTV12,http://ipipip/udp/238.255.2.15:5999$贵州电信
-CCTV13,http://ipipip/udp/238.255.2.16:5999$贵州电信
-CCTV14,http://ipipip/udp/238.255.2.17:5999$贵州电信
-CCTV15,http://ipipip/udp/238.255.2.18:5999$贵州电信
-CCTV17,http://ipipip/udp/238.255.2.137:5999$贵州电信
 CETV1,http://ipipip/udp/238.255.2.105:5999$贵州电信
 CETV4,http://ipipip/udp/238.255.2.222:5999$贵州电信
 CETV早期教育,http://ipipip/udp/238.255.2.143:5999$贵州电信
@@ -156,3 +156,4 @@ CGTV法语,http://ipipip/udp/238.255.2.83:5999$贵州电信
 贵州3影视,http://ipipip/udp/238.255.2.187:5999$贵州电信
 贵州3影视,http://ipipip/udp/238.255.2.200:5999$贵州电信
 贵州3影视,http://ipipip/udp/238.255.2.183:5999$贵州电信
+
