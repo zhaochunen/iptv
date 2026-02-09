@@ -1,4 +1,3 @@
-九画面,http://ipipip/udp/239.120.1.131:8268
 青海卫视,http://ipipip/udp/239.120.1.64:8332
 青海卫视,http://ipipip/udp/239.120.1.113:8346
 安多卫视,http://ipipip/udp/239.120.1.40:8214
@@ -90,3 +89,4 @@ CGTN英语,http://ipipip/udp/239.120.1.161:9024
 久治,http://ipipip/udp/239.120.1.34:9534
 青海油田,http://ipipip/udp/239.120.1.144:8416
 矿区生活,http://ipipip/udp/239.120.1.145:8420
+九画面,http://ipipip/udp/239.120.1.131:8268
