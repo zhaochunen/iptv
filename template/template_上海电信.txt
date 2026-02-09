@@ -1,9 +1,3 @@
-
-BesTV4K动画,http://ipipip/udp/233.18.204.171:5140
-BesTV4K电影,http://ipipip/udp/233.18.204.169:5140
-BesTV4K记录,http://ipipip/udp/233.18.204.170:5140
-天翼高清4K,http://ipipip/udp/233.18.204.201:5140
-CCTV1,http://ipipip/udp/233.18.204.168:5140
 CCTV1,http://ipipip/udp/233.18.204.52:5140
 CCTV2,http://ipipip/udp/233.18.204.68:5140
 CCTV3,http://ipipip/udp/233.18.204.69:5140
@@ -43,6 +37,11 @@ CCTV16 4K,http://ipipip/udp/233.18.204.215:5140
 江苏卫视4K,http://ipipip/udp/233.18.204.226:5140
 欢笑剧场4K,http://ipipip/udp/233.18.204.115:5140
 欢笑剧场4K,http://ipipip/udp/233.18.204.205:5140
+BesTV4K动画,http://ipipip/udp/233.18.204.171:5140
+BesTV4K电影,http://ipipip/udp/233.18.204.169:5140
+BesTV4K记录,http://ipipip/udp/233.18.204.170:5140
+天翼高清4K,http://ipipip/udp/233.18.204.201:5140
+CCTV1,http://ipipip/udp/233.18.204.168:5140
 第一剧场,http://ipipip/udp/233.18.204.184:5140
 风云剧场,http://ipipip/udp/233.18.204.183:5140
 风云足球,http://ipipip/udp/233.18.204.176:5140
@@ -202,5 +201,6 @@ CGTN,http://ipipip/udp/233.18.204.28:5140
 浙江卫视,http://ipipip/udp/233.18.204.121:5140
 无信号,http://ipipip/udp/233.18.204.216:5140
 无信号,http://ipipip/udp/233.18.204.208:5140
+
 
 
