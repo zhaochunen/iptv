@@ -1,10 +1,10 @@
-#EXTINF:-1 group-title="2026/02/09 14:58更新",浙江卫视4K
+#EXTINF:-1 group-title="2026/02/09 16:46更新",浙江卫视4K
 https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
-#EXTINF:-1 group-title="2026/02/09 14:58更新",凤凰中文
+#EXTINF:-1 group-title="2026/02/09 16:46更新",凤凰中文
 http://120.238.5.44:1698/hls/86/index.m3u8
-#EXTINF:-1 group-title="2026/02/09 14:58更新",凤凰资讯
+#EXTINF:-1 group-title="2026/02/09 16:46更新",凤凰资讯
 http://120.238.5.44:1698/hls/85/index.m3u8
-#EXTINF:-1 group-title="2026/02/09 14:58更新",凤凰香港
+#EXTINF:-1 group-title="2026/02/09 16:46更新",凤凰香港
 http://120.238.5.44:1698/hls/87/index.m3u8
 #EXTINF:-1 group-title="广东电信-组播1",CCTV1
 http://113.119.24.105:58888/udp/239.77.0.14:5146$广东电信
