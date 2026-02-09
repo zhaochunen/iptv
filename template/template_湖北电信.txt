@@ -1,23 +1,5 @@
 
-CCTV4K,http://ipipip/udp/239.69.1.111:10304
-CCTV16 4K,http://ipipip/udp/239.69.1.12:9712
-CCTV16 4K,http://ipipip/udp/239.69.1.249:11136
-北京卫视4K,http://ipipip/udp/239.69.2.22:11286
-东方卫视4K,http://ipipip/udp/239.69.2.37:11376
-广东卫视4K,http://ipipip/udp/239.69.2.27:11316
-深圳卫视4K,http://ipipip/udp/239.69.2.28:11322
-湖南卫视4K,http://ipipip/udp/239.69.1.13:9718
-湖南卫视4K,http://ipipip/udp/239.69.1.27:9802
-湖南卫视4K,http://ipipip/udp/239.69.2.34:11358
-山东卫视4K,http://ipipip/udp/239.69.1.26:9796
-山东卫视4K,http://ipipip/udp/239.69.2.38:11382
-四川卫视4K,http://ipipip/udp/239.69.2.39:11388
-四川卫视4K,http://ipipip/udp/239.69.1.28:9808
-浙江卫视4K,http://ipipip/udp/239.69.2.35:11364
-浙江卫视4K,http://ipipip/udp/239.69.1.25:9790
-江苏卫视4K,http://ipipip/udp/239.69.1.24:9784
-江苏卫视4K,http://ipipip/udp/239.69.2.36:11370
-欢笑剧场4K,http://ipipip/udp/239.69.2.5:11184
+
 CCTV1,http://ipipip/udp/239.254.96.96:8550
 CCTV2,http://ipipip/udp/239.69.1.102:10250
 CCTV3,http://ipipip/udp/239.69.1.122:10370
@@ -38,6 +20,25 @@ CCTV14,http://ipipip/udp/239.69.1.107:10280
 CCTV15,http://ipipip/udp/239.69.1.155:10566
 CCTV16,http://ipipip/udp/239.69.1.247:11124
 CCTV17,http://ipipip/udp/239.69.1.152:10548
+CCTV4K,http://ipipip/udp/239.69.1.111:10304
+CCTV16 4K,http://ipipip/udp/239.69.1.12:9712
+CCTV16 4K,http://ipipip/udp/239.69.1.249:11136
+北京卫视4K,http://ipipip/udp/239.69.2.22:11286
+东方卫视4K,http://ipipip/udp/239.69.2.37:11376
+广东卫视4K,http://ipipip/udp/239.69.2.27:11316
+深圳卫视4K,http://ipipip/udp/239.69.2.28:11322
+湖南卫视4K,http://ipipip/udp/239.69.1.13:9718
+湖南卫视4K,http://ipipip/udp/239.69.1.27:9802
+湖南卫视4K,http://ipipip/udp/239.69.2.34:11358
+山东卫视4K,http://ipipip/udp/239.69.1.26:9796
+山东卫视4K,http://ipipip/udp/239.69.2.38:11382
+四川卫视4K,http://ipipip/udp/239.69.2.39:11388
+四川卫视4K,http://ipipip/udp/239.69.1.28:9808
+浙江卫视4K,http://ipipip/udp/239.69.2.35:11364
+浙江卫视4K,http://ipipip/udp/239.69.1.25:9790
+江苏卫视4K,http://ipipip/udp/239.69.1.24:9784
+江苏卫视4K,http://ipipip/udp/239.69.2.36:11370
+欢笑剧场4K,http://ipipip/udp/239.69.2.5:11184
 湖北综合,http://ipipip/udp/239.69.1.42:9892
 湖北公共新闻,http://ipipip/udp/239.69.1.40:9880
 湖北垄上,http://ipipip/udp/239.69.1.43:9898
