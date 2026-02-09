@@ -1,11 +1,11 @@
 
-CCTV1,http://ipipip/udp/239.77.0.14:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.0.30:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.0.86:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.0.119:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.1.17:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.1.144:5146$广东电信
 CCTV1,http://ipipip/udp/239.77.0.129:5146$广东电信
+CCTV1,http://ipipip/udp/239.77.0.14:5146$广东电信
 CCTV2,http://ipipip/udp/239.77.0.137:5146$广东电信
 CCTV2,http://ipipip/udp/239.77.1.158:5146$广东电信
 CCTV3,http://ipipip/udp/239.77.0.32:5146$广东电信
