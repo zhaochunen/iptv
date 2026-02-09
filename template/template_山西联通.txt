@@ -1,13 +1,4 @@
 
-北京卫视4K,http://ipipip/udp/226.0.2.155:9172
-东方卫视4K,http://ipipip/udp/226.0.1.248:2121
-广东卫视4K,http://ipipip/udp/226.0.1.245:2120
-深圳卫视4K,http://ipipip/udp/226.0.1.244:2119
-湖南卫视4K,http://ipipip/udp/226.0.1.246:2125
-山东卫视4K,http://ipipip/udp/226.0.1.251:2124
-四川卫视4K,http://ipipip/udp/226.0.1.250:2126
-浙江卫视4K,http://ipipip/udp/226.0.1.247:2123
-江苏卫视4K,http://ipipip/udp/226.0.1.249:2122
 CCTV1,http://ipipip/udp/226.0.2.153:9136
 CCTV2,http://ipipip/udp/226.0.2.154:9144
 CCTV3,http://ipipip/udp/226.0.2.208:9576
@@ -29,6 +20,15 @@ CETV早期教育,http://ipipip/udp/226.0.2.99:8704
 CHC影迷电影,http://ipipip/udp/226.0.2.93:8004
 CHC家庭影院,http://ipipip/udp/226.0.2.240:9820
 CHC动作电影,http://ipipip/udp/226.0.2.94:8012
+北京卫视4K,http://ipipip/udp/226.0.2.155:9172
+东方卫视4K,http://ipipip/udp/226.0.1.248:2121
+广东卫视4K,http://ipipip/udp/226.0.1.245:2120
+深圳卫视4K,http://ipipip/udp/226.0.1.244:2119
+湖南卫视4K,http://ipipip/udp/226.0.1.246:2125
+山东卫视4K,http://ipipip/udp/226.0.1.251:2124
+四川卫视4K,http://ipipip/udp/226.0.1.250:2126
+浙江卫视4K,http://ipipip/udp/226.0.1.247:2123
+江苏卫视4K,http://ipipip/udp/226.0.1.249:2122
 山西文体生活,http://ipipip/udp/226.0.2.16:8040
 山西文体生活,http://ipipip/udp/226.0.2.237:9808
 山西社会与法治,http://ipipip/udp/226.0.2.238:9816
@@ -184,3 +184,4 @@ CEV1,http://ipipip/udp/226.0.2.68:8456
 中华特产,http://ipipip/udp/226.0.2.128:8936
 收藏天下,http://ipipip/udp/226.0.2.132:8968
 老故事,http://ipipip/udp/226.0.2.112:8808
+
