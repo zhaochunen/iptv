@@ -1,12 +1,4 @@
 
-CCTV4K,http://ipipip/udp/239.254.96.56:7432
-CCTV16 4K,http://ipipip/udp/239.254.96.170:8206
-北京卫视4K,http://ipipip/udp/239.254.96.158:8220
-广东卫视4K,http://ipipip/udp/239.254.96.159:8220
-深圳卫视4K,http://ipipip/udp/239.254.96.160:8220
-深圳卫视4K,http://ipipip/udp/239.254.96.68:7528
-爱上4K,http://ipipip/udp/239.254.96.193:8182
-爱上4K,http://ipipip/udp/239.254.96.102:7800
 CCTV1,http://ipipip/udp/239.254.96.82:7640
 CCTV2,http://ipipip/udp/239.254.96.124:7084
 CCTV3,http://ipipip/udp/239.254.96.67:7520
@@ -26,6 +18,14 @@ CCTV15,http://ipipip/udp/239.254.96.188:8170
 CCTV17,http://ipipip/udp/239.254.96.57:8204
 CETV1,http://ipipip/udp/239.254.96.155:7152
 CGTN纪录,http://ipipip/udp/239.254.96.58:7448
+CCTV4K,http://ipipip/udp/239.254.96.56:7432
+CCTV16 4K,http://ipipip/udp/239.254.96.170:8206
+北京卫视4K,http://ipipip/udp/239.254.96.158:8220
+广东卫视4K,http://ipipip/udp/239.254.96.159:8220
+深圳卫视4K,http://ipipip/udp/239.254.96.160:8220
+深圳卫视4K,http://ipipip/udp/239.254.96.68:7528
+爱上4K,http://ipipip/udp/239.254.96.193:8182
+爱上4K,http://ipipip/udp/239.254.96.102:7800
 金鹰纪实,http://ipipip/udp/239.254.96.154:7156
 国学,http://ipipip/udp/239.254.96.141:8094
 重庆卫视,http://ipipip/udp/239.254.96.60:7464
