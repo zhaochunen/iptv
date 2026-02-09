@@ -1,15 +1,4 @@
-CCTV4K,http://ipipip/udp/239.253.64.48:5140$海南电信
-CCTV16 4K,http://ipipip/udp/239.253.64.126:5140$海南电信
-北京卫视4K,http://ipipip/udp/239.253.64.92:5140$海南电信
-东方卫视4K,http://ipipip/udp/239.253.64.63:5140$海南电信
-广东卫视4K,http://ipipip/udp/239.253.64.96:5140$海南电信
-深圳卫视4K,http://ipipip/udp/239.253.64.95:5140$海南电信
-湖南卫视4K,http://ipipip/udp/239.253.64.60:5140$海南电信
-山东卫视4K,http://ipipip/udp/239.253.64.65:5140$海南电信
-四川卫视4K,http://ipipip/udp/239.253.64.64:5140$海南电信
-浙江卫视4K,http://ipipip/udp/239.253.64.62:5140$海南电信
-江苏卫视4K,http://ipipip/udp/239.253.64.61:5140$海南电信
-爱上4K,http://ipipip/udp/239.253.64.243:5140$海南电信
+
 CCTV1,http://ipipip/udp/239.253.64.120:5140$海南电信
 CCTV2,http://ipipip/udp/239.253.64.195:5140$海南电信
 CCTV3,http://ipipip/udp/239.253.64.244:5140$海南电信
@@ -42,6 +31,18 @@ CGTN法语,http://ipipip/udp/239.253.64.73:5140$海南电信
 CHC影迷电影,http://ipipip/udp/239.253.64.52:5140$海南电信
 CHC家庭影院,http://ipipip/udp/239.253.64.50:5140$海南电信
 CHC动作电影,http://ipipip/udp/239.253.64.51:5140$海南电信
+CCTV4K,http://ipipip/udp/239.253.64.48:5140$海南电信
+CCTV16 4K,http://ipipip/udp/239.253.64.126:5140$海南电信
+北京卫视4K,http://ipipip/udp/239.253.64.92:5140$海南电信
+东方卫视4K,http://ipipip/udp/239.253.64.63:5140$海南电信
+广东卫视4K,http://ipipip/udp/239.253.64.96:5140$海南电信
+深圳卫视4K,http://ipipip/udp/239.253.64.95:5140$海南电信
+湖南卫视4K,http://ipipip/udp/239.253.64.60:5140$海南电信
+山东卫视4K,http://ipipip/udp/239.253.64.65:5140$海南电信
+四川卫视4K,http://ipipip/udp/239.253.64.64:5140$海南电信
+浙江卫视4K,http://ipipip/udp/239.253.64.62:5140$海南电信
+江苏卫视4K,http://ipipip/udp/239.253.64.61:5140$海南电信
+爱上4K,http://ipipip/udp/239.253.64.243:5140$海南电信
 金鹰纪实,http://ipipip/udp/239.253.64.168:5140$海南电信
 中国天气,http://ipipip/udp/239.253.64.79:5140$海南电信
 重庆卫视,http://ipipip/udp/239.253.64.55:5140$海南电信
