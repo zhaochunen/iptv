@@ -1,3 +1,1 @@
 183.241.47.89:5444
-nas.qrobot.cn:4022
-bj.qrobot.cn:4022
