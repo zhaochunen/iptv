@@ -1,1 +1,2 @@
-htgy.zynas.top:4000
+htgy.zynas.top:4001
+122.159.48.86:8888
