@@ -142,7 +142,13 @@ def main():
     current_time = now.strftime("%Y/%m/%d %H:%M")
     with open("zubo_all.txt", "w", encoding="utf-8") as f:
         f.write(f"{current_time}更新,#genre#\n")
-        f.write(f"浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8\n")
+        f.write(f"CCTV-4K超高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8\n")
+        f.write(f"浙江卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8\n")
+        f.write(f"深圳卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8\n")
+        f.write(f"东方卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8\n")
+        f.write(f"山东卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8\n")
+        f.write(f"四川卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8\n")
+        f.write(f"江苏卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8\n")
         f.write(f"凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8\n")
         f.write(f"凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8\n")
         f.write(f"凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8\n")
@@ -151,6 +157,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
