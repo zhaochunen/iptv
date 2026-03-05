@@ -153,10 +153,12 @@ def main():
         f.write(f"凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8\n")
         f.write(f"凤凰香港,http://120.238.5.44:1698/hls/87/index.m3u8\n")
         f.write('\n'.join(file_contents))
+    txt_to_m3u("zubo_all.txt","zubo_all.m3u“）
     print(f"组播地址获取完成")
 
 if __name__ == "__main__":
     main()
+
 
 
 
