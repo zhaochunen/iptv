@@ -2,7 +2,7 @@ name: zubo
 
 on:
   schedule:
-    - cron: "*/60 * * * *"
+    - cron: "*/240 * * * *"
   workflow_dispatch:          # 手动触发
 
 jobs:
